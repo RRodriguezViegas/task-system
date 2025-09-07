@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Mark;
+    src: url("./assets/fonts/MarkPro.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Mark;
+    src: url("./assets/fonts/MarkPro.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #f1f1f1;
+    font-family: Mark;
+}
